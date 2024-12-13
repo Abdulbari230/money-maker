@@ -29,5 +29,5 @@ Money Maker is a machine learning project designed to predict the number of like
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/money-maker.git
+   git clone https://github.com/Abdulbari230/money-maker.git
 
